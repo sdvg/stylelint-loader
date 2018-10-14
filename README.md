@@ -42,13 +42,11 @@ Add as first loader (last in Array) for your styles like this:
       <td><code>false</code></td>
       <td>Suppress Stylelint output</td>
     </tr>
-
     <tr>
       <td><code>emitError</code></td>
       <td><code>false</code></td>
       <td>Emit all warnings and errors as errors (recommended for production builds)</td>
     </tr>
-
     <tr>
       <td><code>emitWarning</code></td>
       <td><code>false</code></td>
