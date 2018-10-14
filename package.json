@@ -1,6 +1,6 @@
 {
   "name": "@sdvg/stylelint-loader",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Stylelint loader for Webpack 4",
   "main": "index.js",
   "scripts": {
